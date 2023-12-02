@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusukeSakuraba
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yussak
 )](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusukeSakuraba&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yussak&show_icons=true&theme=transparent)
