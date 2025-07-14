@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a web backend & frontend engineer.
-- 🌱 I’m currently learning AI coding!
+- 🌱 I'm currently learning testing, AP (応用情報技術者試験), and AI coding!
 - 📫 How to reach me: [X - @yussak](https://twitter.com/yussak213)
 <br>
 
