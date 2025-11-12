@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a web backend & frontend engineer.
 - 🌱 I'm mainly interested in improving legacy software.
-- 🔥 I'm also learning testing, AP (応用情報技術者試験), and AI coding!
+- 🔥 I'm also learning testing, and AI coding!
 - 📫 How to reach me: [X - @yussak](https://twitter.com/yussak213)
 <br>
 
