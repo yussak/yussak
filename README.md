@@ -33,6 +33,7 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats-pied-three-36.vercel.app/api?username=yussak&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats-pied-three-36.vercel.app/api/top-langs?username=yussak&show_icons=true&theme=vue-dark)
 
 
 <!--
